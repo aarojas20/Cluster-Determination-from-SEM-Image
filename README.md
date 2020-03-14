@@ -2,8 +2,8 @@
 How do we understand the distribution of a material in an electrode? 
 
 Battery electrode performance is closely related to the distribution of its materials. 
-In this exercise, a slurry was composed such that it contained ion-conducting material, electron-conducting material, 
-active material, and a binder.  This slurry was processed subsequently into an electrode. 
+In this exercise, an electrode contains active material, ion-conducting material, electron-conducting material, 
+and a binder.  
 
 To gain an understanding of the distribution of a component of interest, an SEM image with elemental mapping
 was acquired. The SEM image of the particles was processed in Fiji (ImageJ) into a binary image (black/white) using autothresholding.  The position of each particle was output in terms of pixel distance, and an analysis for clustering was run on this data set.  
